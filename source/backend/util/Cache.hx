@@ -1,4 +1,4 @@
-package util;
+package backend.util;
 
 import flixel.graphics.FlxGraphic;
 import openfl.media.Sound;
